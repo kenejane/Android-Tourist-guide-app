@@ -1,2 +1,2 @@
-# Android-habit tracker appp
+# Android-habit tracker app
 
